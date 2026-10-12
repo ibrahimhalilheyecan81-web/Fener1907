@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-10-12T12:00:00.000Z",
+  "updatedAt": "2026-10-12T16:00:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
@@ -255,12 +255,14 @@
       "home": "Çaykur Rizespor",
       "away": "Fenerbahçe",
       "score": "0-3",
-      "date": "10.10.2026 19:00",
+      "date": "2026-10-10T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-7",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Çaykur Didi Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -269,12 +271,14 @@
       "home": "Fenerbahçe",
       "away": "Corendon Alanyaspor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-10-17T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-8",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -283,12 +287,14 @@
       "home": "Galatasaray",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-10-26T21:30:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-9",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "RAMS Park"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -297,12 +303,14 @@
       "home": "Fenerbahçe",
       "away": "Göztepe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-10-31T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-10",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -311,12 +319,14 @@
       "home": "Arca Çorum FK",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-11-08T16:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-11",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Çorum Şehir Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -325,12 +335,14 @@
       "home": "Kocaelispor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-11-21T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-12",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Kocaeli Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -339,12 +351,14 @@
       "home": "Fenerbahçe",
       "away": "Erzurumspor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-11-29T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-13",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -353,12 +367,14 @@
       "home": "İstanbul Başakşehir",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-12-05T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-14",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Başakşehir Fatih Terim Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -367,12 +383,14 @@
       "home": "Fenerbahçe",
       "away": "Trabzonspor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-12-13T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-15",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -381,12 +399,14 @@
       "home": "Kasımpaşa",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2026-12-18T20:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-16",
       "inBaseline": false,
       "sport": "Futbol",
-      "detail": {},
+      "detail": {
+        "stadium": "Recep Tayyip Erdoğan Stadyumu"
+      },
       "prediction": null,
       "motmVotes": {}
     },
@@ -395,7 +415,7 @@
       "home": "Fenerbahçe",
       "away": "Amed Sportif Faaliyetler",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-01-17",
       "comp": "Süper Lig",
       "id": "legacy-17",
       "inBaseline": false,
@@ -409,7 +429,7 @@
       "home": "Fenerbahçe",
       "away": "Gençlerbirliği",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-01-24",
       "comp": "Süper Lig",
       "id": "legacy-18",
       "inBaseline": false,
@@ -423,7 +443,7 @@
       "home": "Konyaspor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-01-31",
       "comp": "Süper Lig",
       "id": "legacy-19",
       "inBaseline": false,
@@ -437,7 +457,7 @@
       "home": "Fenerbahçe",
       "away": "Samsunspor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-02-07",
       "comp": "Süper Lig",
       "id": "legacy-20",
       "inBaseline": false,
@@ -451,7 +471,7 @@
       "home": "Beşiktaş",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-02-14",
       "comp": "Süper Lig",
       "id": "legacy-21",
       "inBaseline": false,
@@ -465,7 +485,7 @@
       "home": "Fenerbahçe",
       "away": "Gaziantep FK",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-02-21",
       "comp": "Süper Lig",
       "id": "legacy-22",
       "inBaseline": false,
@@ -479,7 +499,7 @@
       "home": "Eyüpspor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-02-28",
       "comp": "Süper Lig",
       "id": "legacy-23",
       "inBaseline": false,
@@ -493,7 +513,7 @@
       "home": "Fenerbahçe",
       "away": "Çaykur Rizespor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-03-07",
       "comp": "Süper Lig",
       "id": "legacy-24",
       "inBaseline": false,
@@ -507,7 +527,7 @@
       "home": "Corendon Alanyaspor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-03-14",
       "comp": "Süper Lig",
       "id": "legacy-25",
       "inBaseline": false,
@@ -521,7 +541,7 @@
       "home": "Fenerbahçe",
       "away": "Galatasaray",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-03-21",
       "comp": "Süper Lig",
       "id": "legacy-26",
       "inBaseline": false,
@@ -535,7 +555,7 @@
       "home": "Göztepe",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-04-04",
       "comp": "Süper Lig",
       "id": "legacy-27",
       "inBaseline": false,
@@ -549,7 +569,7 @@
       "home": "Fenerbahçe",
       "away": "Arca Çorum FK",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-04-11",
       "comp": "Süper Lig",
       "id": "legacy-28",
       "inBaseline": false,
@@ -563,7 +583,7 @@
       "home": "Fenerbahçe",
       "away": "Kocaelispor",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-04-18",
       "comp": "Süper Lig",
       "id": "legacy-29",
       "inBaseline": false,
@@ -577,7 +597,7 @@
       "home": "Erzurumspor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-04-25",
       "comp": "Süper Lig",
       "id": "legacy-30",
       "inBaseline": false,
@@ -591,7 +611,7 @@
       "home": "Fenerbahçe",
       "away": "İstanbul Başakşehir",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-05-02",
       "comp": "Süper Lig",
       "id": "legacy-31",
       "inBaseline": false,
@@ -605,7 +625,7 @@
       "home": "Trabzonspor",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-05-09",
       "comp": "Süper Lig",
       "id": "legacy-32",
       "inBaseline": false,
@@ -619,7 +639,7 @@
       "home": "Fenerbahçe",
       "away": "Kasımpaşa",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "2027-05-16",
       "comp": "Süper Lig",
       "id": "legacy-33",
       "inBaseline": false,
@@ -633,9 +653,154 @@
       "home": "Amed Sportif Faaliyetler",
       "away": "Fenerbahçe",
       "score": "",
-      "date": "Tarih/saat açıklanmadı",
+      "date": "",
       "comp": "Süper Lig",
       "id": "legacy-34",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {},
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 1,
+      "home": "Fenerbahçe",
+      "away": "Roma",
+      "score": "1-1",
+      "date": "2026-09-10T19:45:00+03:00",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-1",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {
+        "stadium": "Chobani Stadyumu",
+        "referee": "Jesús Manzano",
+        "awayXI": [
+          "Svilar",
+          "Mancini",
+          "N'Dicka",
+          "Hermoso",
+          "Rensch",
+          "Cristante",
+          "Koné",
+          "Wesley França",
+          "Dybala",
+          "Soulé",
+          "Malen"
+        ],
+        "goals": [
+          {
+            "player": "Bryan Cristante (Roma)",
+            "minute": "39"
+          },
+          {
+            "player": "Archie Brown (Fenerbahçe)",
+            "minute": "48"
+          }
+        ],
+        "notes": "Bartuğ Elmaz 62. dakikada sakatlandı, yerine Levent Mercan girdi."
+      },
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 2,
+      "home": "Aston Villa",
+      "away": "Fenerbahçe",
+      "score": "",
+      "date": "2026-10-14",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-2",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {},
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 3,
+      "home": "Fenerbahçe",
+      "away": "Slavia Prag",
+      "score": "",
+      "date": "2026-10-20",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-3",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 4,
+      "home": "Fenerbahçe",
+      "away": "Liverpool",
+      "score": "",
+      "date": "2026-11-04",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-4",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 5,
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahçe",
+      "score": "",
+      "date": "2026-11-25",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-5",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {},
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 6,
+      "home": "LASK",
+      "away": "Fenerbahçe",
+      "score": "",
+      "date": "2026-12-09",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-6",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {},
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 7,
+      "home": "Fenerbahçe",
+      "away": "Villarreal",
+      "score": "",
+      "date": "2027-01-20",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-7",
+      "inBaseline": false,
+      "sport": "Futbol",
+      "detail": {
+        "stadium": "Chobani Stadyumu"
+      },
+      "prediction": null,
+      "motmVotes": {}
+    },
+    {
+      "week": 8,
+      "home": "Atletico Madrid",
+      "away": "Fenerbahçe",
+      "score": "",
+      "date": "2027-01-27",
+      "comp": "Şampiyonlar Ligi",
+      "id": "ucl-8",
       "inBaseline": false,
       "sport": "Futbol",
       "detail": {},
@@ -1327,54 +1492,32 @@
   ],
   "stats": [
     [
-      "Gol",
-      1
+      "Oynanan maç (Süper Lig)",
+      7
+    ],
+    [
+      "Galibiyet / beraberlik / mağlubiyet",
+      "4 / 1 / 2"
+    ],
+    [
+      "Puan",
+      13
+    ],
+    [
+      "Atılan gol",
+      19
     ],
     [
       "Yenilen gol",
-      1
+      6
     ],
     [
-      "Topa sahip olma",
-      42,
-      "%"
+      "Averaj",
+      "+13"
     ],
     [
-      "Pas isabeti",
-      85,
-      "%"
-    ],
-    [
-      "Kazanılan top",
-      42
-    ],
-    [
-      "Kazanılan müdahale",
-      8
-    ],
-    [
-      "Kurtarış",
-      2
-    ],
-    [
-      "Sarı kart",
-      4
-    ],
-    [
-      "Kırmızı kart",
-      0
-    ],
-    [
-      "Asist",
-      1
-    ],
-    [
-      "Korner",
-      1
-    ],
-    [
-      "Ofsayt",
-      1
+      "Şampiyonlar Ligi",
+      "1 maç · 1B (Roma 1-1)"
     ]
   ],
   "news": [
@@ -1402,5 +1545,397 @@
       "link": "",
       "sport": "Futbol"
     }
-  ]
+  ],
+  "leagueStats": [
+    {
+      "id": "ls-trabzonspor-mohamed-salah",
+      "name": "Mohamed Salah",
+      "team": "Trabzonspor",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 7,
+      "assists": 3,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-amed-sportif-faaliyetler-gift-orban",
+      "name": "Gift Orban",
+      "team": "Amed Sportif Faaliyetler",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 7,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-galatasaray-victor-osimhen",
+      "name": "Victor Osimhen",
+      "team": "Galatasaray",
+      "pos": "",
+      "apps": 5,
+      "minutes": null,
+      "goals": 6,
+      "assists": 3,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbah-e-vedat-muriqi",
+      "name": "Vedat Muriqi",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 6,
+      "assists": 1,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-i-stanbul-ba-ak-ehir-eldor-shomurodov",
+      "name": "Eldor Shomurodov",
+      "team": "İstanbul Başakşehir",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 6,
+      "assists": 0,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-be-ikta-du-an-vlahovi-",
+      "name": "Dušan Vlahović",
+      "team": "Beşiktaş",
+      "pos": "",
+      "apps": 4,
+      "minutes": null,
+      "goals": 5,
+      "assists": 0,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbah-e-mason-greenwood",
+      "name": "Mason Greenwood",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 4,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-arca-orum-fk-jes-s-ram-rez",
+      "name": "Jesús Ramírez",
+      "team": "Arca Çorum FK",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 4,
+      "assists": 1,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-kas-mpa-a-adrian-benedyczak",
+      "name": "Adrian Benedyczak",
+      "team": "Kasımpaşa",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 4,
+      "assists": 1,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-amed-sportif-faaliyetler-dia-saba",
+      "name": "Dia Saba",
+      "team": "Amed Sportif Faaliyetler",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 4,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-g-ztepe-juan-santos-da-silva",
+      "name": "Juan Santos da Silva",
+      "team": "Göztepe",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 4,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-arca-orum-fk-alexandros-kyziridis",
+      "name": "Alexandros Kyziridis",
+      "team": "Arca Çorum FK",
+      "pos": "",
+      "apps": 4,
+      "minutes": null,
+      "goals": 3,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbah-e-o-uz-ayd-n",
+      "name": "Oğuz Aydın",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 2,
+      "assists": 3,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbah-e-i-rfan-can-kahveci",
+      "name": "İrfan Can Kahveci",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 2,
+      "assists": 3,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-galatasaray-gabriel-sara",
+      "name": "Gabriel Sara",
+      "team": "Galatasaray",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 2,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-trabzonspor-ernest-mu-i",
+      "name": "Ernest Muçi",
+      "team": "Trabzonspor",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-arca-orum-fk-cengiz-nder",
+      "name": "Cengiz Ünder",
+      "team": "Arca Çorum FK",
+      "pos": "",
+      "apps": 4,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-kocaelispor-berkan-kutlu",
+      "name": "Berkan Kutlu",
+      "team": "Kocaelispor",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-trabzonspor-franculino-dj-",
+      "name": "Franculino Djú",
+      "team": "Trabzonspor",
+      "pos": "",
+      "apps": 4,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls--aykur-rizespor-emrecan-bulut",
+      "name": "Emrecan Bulut",
+      "team": "Çaykur Rizespor",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-arca-orum-fk-ermin-mahmi-",
+      "name": "Ermin Mahmić",
+      "team": "Arca Çorum FK",
+      "pos": "",
+      "apps": 4,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbah-e-marco-asensio",
+      "name": "Marco Asensio",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": 3,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-gaziantep-fk-kacper-koz-owski",
+      "name": "Kacper Kozłowski",
+      "team": "Gaziantep FK",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-corendon-alanyaspor-gaius-makouta",
+      "name": "Gaius Makouta",
+      "team": "Corendon Alanyaspor",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-gaziantep-fk-deian-sorescu",
+      "name": "Deian Sorescu",
+      "team": "Gaziantep FK",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 2,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-gaziantep-fk-alexandru-maxim",
+      "name": "Alexandru Maxim",
+      "team": "Gaziantep FK",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-be-ikta-junior-olaitan",
+      "name": "Junior Olaitan",
+      "team": "Beşiktaş",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-be-ikta-orkun-k-k-",
+      "name": "Orkun Kökçü",
+      "team": "Beşiktaş",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": 1,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-corendon-alanyaspor-florent-hadergjonaj",
+      "name": "Florent Hadergjonaj",
+      "team": "Corendon Alanyaspor",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-trabzonspor-mustafa-eskihella-",
+      "name": "Mustafa Eskihellaç",
+      "team": "Trabzonspor",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-i-stanbul-ba-ak-ehir-andreas-skov-olsen",
+      "name": "Andreas Skov Olsen",
+      "team": "İstanbul Başakşehir",
+      "pos": "",
+      "apps": 6,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-galatasaray-lucas-torreira",
+      "name": "Lucas Torreira",
+      "team": "Galatasaray",
+      "pos": "",
+      "apps": 7,
+      "minutes": null,
+      "goals": null,
+      "assists": 2,
+      "yellow": null,
+      "red": null
+    }
+  ],
+  "leagueStatsMeta": {
+    "season": "2026/27",
+    "throughWeek": 7,
+    "updatedAt": "2026-10-11T20:54:00+03:00",
+    "source": "Sporkolik gol/asist listeleri (11.10.2026). Listede yalnızca ilk sıradakiler var; diğer oyuncular için veri yok."
+  }
 }
