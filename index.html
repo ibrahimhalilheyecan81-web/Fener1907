@@ -77,6 +77,12 @@ function setMatchComp(c){matchComp=c;renderMatchFilters();renderMatches()}
 function normalizeSearchDate(q){const d=parseDate(q);return d?d.toLocaleDateString('tr-TR'):q.toLocaleLowerCase('tr')}
 function renderMatches(){const el=document.getElementById('matchList');if(!el)return;const q=(document.getElementById('matchSearch')?.value||'').trim().toLocaleLowerCase('tr'),status=document.getElementById('matchStatus')?.value||'all',only=!!document.getElementById('onlyFener')?.checked,venue=document.getElementById('venueFilter')?.value||'all',qd=parseDate(q);let list=data.matches.filter(m=>matchComp==='Tümü'||m.comp===matchComp);if(only)list=list.filter(m=>m.home==='Fenerbahçe'||m.away==='Fenerbahçe');if(venue==='home')list=list.filter(m=>m.home==='Fenerbahçe');if(venue==='away')list=list.filter(m=>m.away==='Fenerbahçe');if(status==='played')list=list.filter(m=>!!m.score);if(status==='pending')list=list.filter(m=>!m.score&&parseDate(m.date)&&parseDate(m.date)<new Date());if(status==='upcoming')list=list.filter(m=>!m.score&&parseDate(m.date)>new Date());if(q)list=list.filter(m=>{const d=parseDate(m.date);return (`${m.home} ${m.away} ${m.week} ${m.comp} ${m.date}`).toLocaleLowerCase('tr').includes(q)||(qd&&d&&d.toLocaleDateString('tr-TR')===qd.toLocaleDateString('tr-TR'))});list.sort((a,b)=>(parseDate(a.date)?.getTime()||Infinity)-(parseDate(b.date)?.getTime()||Infinity));el.innerHTML=list.length?list.map(matchCard).join(''):'<div class="card muted">Bu filtrede maç bulunamadı.</div>'}
 
+
+function loadLineups(){try{return JSON.parse(storeGet('f1907_lineups')||'{}')}catch(e){return {}}}
+function saveLineups(o){try{storeSet('f1907_lineups',JSON.stringify(o))}catch(e){}}
+function setLineupFormation(mid,f){const o=loadLineups();o[mid]=o[mid]||{formation:f,picks:[]};o[mid].formation=f;saveLineups(o);renderTaraftarPlus()}
+function togglePick(mid,i,on){const o=loadLineups();o[mid]=o[mid]||{formation:'4-2-3-1',picks:[]};let p=o[mid].picks.filter(x=>x!==i);if(on){if(p.length>=11){alert('En fazla 11 oyuncu seçebilirsin.');renderTaraftarPlus();return}p.push(i)}o[mid].picks=p;saveLineups(o);renderTaraftarPlus()}
+function clearLineup(mid){const o=loadLineups();delete o[mid];saveLineups(o);renderTaraftarPlus()}
 function setRating(mid,i,v){const all=storeGet('f1907_ratings')?JSON.parse(storeGet('f1907_ratings')):{};all[mid]=all[mid]||{};if(v===''){delete all[mid][i]}else{all[mid][i]=Number(v)}try{storeSet('f1907_ratings',JSON.stringify(all))}catch(e){}renderTaraftarPlus()}
 function renderTaraftarPlus(){const el=document.getElementById('taraftarPlus');if(!el||!data||!Array.isArray(data.matches))return;
 const t=m=>{const d=parseDate(m.date);return d?d.getTime():Infinity};
@@ -89,11 +95,13 @@ let h='<h2 style="margin-top:22px">Taraftar 💛💙</h2>';
 // 1) Geri sayım
 h+='<div class="card" style="margin-top:12px"><h3>⏳ Sıradaki maç</h3>';
 h+=nm?`<p><b>${esc(nm.home)} – ${esc(nm.away)}</b><br>${esc(nm.comp)} · ${fmtDate(nm.date)}</p>`:'<p>Yaklaşan maç yok.</p>';
-// 2) Resmi ilk 11
-const lu=nm&&data.lineups&&data.lineups[nm.id];
-h+='<h3 style="margin-top:14px">📝 Resmi ilk 11</h3>';
-h+=lu&&Array.isArray(lu.players)&&lu.players.length?`<p>Diziliş: ${esc(lu.formation||'')}</p><p>${lu.players.map(esc).join(', ')}</p>`:'<p>Bu maç için ilk 11 henüz girilmedi.</p>';
-h+='</div>';
+// 2) Kişisel ilk 11 (sadece bu cihazda)
+if(nm){const lu=loadLineups()[nm.id]||{formation:'4-2-3-1',picks:[]};const fbPl=data.players.map((p,i)=>({p,i})).filter(x=>(x.p.team||'Fenerbahçe')==='Fenerbahçe');
+h+='<div class="card" style="margin-top:12px"><h3>📝 Benim ilk 11\'im</h3><p class="muted">Sadece senin telefonunda saklanır, kimseyle paylaşılmaz.</p>';
+h+=`<div class="row-between"><span>Diziliş</span><select onchange="setLineupFormation('${nm.id}',this.value)">${['4-2-3-1','4-3-3','4-4-2','3-5-2','3-4-3'].map(f=>`<option ${lu.formation===f?'selected':''}>${f}</option>`).join('')}</select></div>`;
+h+=`<p>Seçilen: <b>${lu.picks.length}/11</b></p>`;
+h+=fbPl.map(x=>`<label style="display:block;margin:6px 0"><input type="checkbox" ${lu.picks.includes(x.i)?'checked':''} onchange="togglePick('${nm.id}',${x.i},this.checked)"> ${esc(x.p.name)}</label>`).join('');
+h+=`<button class="btn" style="margin-top:8px" onclick="clearLineup('${nm.id}')">Sıfırla</button></div>`;}
 // 3) Maç puanı (cihazda)
 if(played[0]){const pm=played[0];const all=storeGet('f1907_ratings')?JSON.parse(storeGet('f1907_ratings')):{};const r=all[pm.id]||{};
 const pls=data.players.map((p,i)=>({p,i})).filter(x=>(x.p.team||'Fenerbahçe')==='Fenerbahçe');
