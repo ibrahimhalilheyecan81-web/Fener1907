@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-10-13T15:00:00+03:00",
+  "updatedAt": "2026-10-14T11:00:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
@@ -1538,6 +1538,106 @@
   ],
   "news": [
     {
+      "title": "Fenerbahçe Aston Villa için 23 kişilik kafileyi açıkladı",
+      "desc": "Kulüp, Şampiyonlar Ligi 2. hafta deplasmanı için kamp kadrosunu duyurdu.",
+      "body": "Fenerbahçe, Şampiyonlar Ligi 2. hafta deplasmanında oynayacağı Aston Villa maçı için 23 kişilik kamp kadrosunu açıkladı. Kadroyu teknik direktör İsmail Kartal belirledi.",
+      "cat": "Maç",
+      "source": "HT Spor",
+      "date": "13.10.2026",
+      "link": "https://www.haberturk.com/spor/iste-fenerbahce-nin-aston-villa-maci-kamp-kadrosu-3919368",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Mert Müldür Aston Villa maçında forma giyemeyecek",
+      "desc": "Sakatlığı bulunan Müldür, Fenerbahçe’de bu maçta tek eksik.",
+      "body": "Sakatlığı bulunan Mert Müldür, Aston Villa deplasmanında forma giyemeyecek. Haberde bu durum Fenerbahçe’nin kadrosundaki tek eksik olarak öne çıkarılıyor.",
+      "cat": "Kulüp",
+      "source": "CNN Türk",
+      "date": "13.10.2026",
+      "link": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-deplasmanda-aston-villa-ile-karsilasacak-3479029",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Aston Villa maçını Slovak hakem Ivan Kruzliak yönetecek",
+      "desc": "Maç TRT 1’de yayımlanacak, yardımcı hakemler de açıklandı.",
+      "body": "Aston Villa – Fenerbahçe maçını Slovak hakem Ivan Kruzliak yönetecek. Yardımcı hakemler Branislav Hancko ile Jan Pozor, dördüncü hakem Peter Kralovic olacak. Karşılaşma TRT 1 ve tabii platformundan yayımlanacak.",
+      "cat": "Maç",
+      "source": "TRT Haber",
+      "date": "12.10.2026",
+      "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-aston-villa-ile-karsilasacak-960056.html",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Romelu Lukaku’nun durumu Aston Villa öncesi gündemde",
+      "desc": "Sakatlık sonrası İsmail Kartal’ın Lukaku kararı merak konusu.",
+      "body": "Romelu Lukaku’nun sakatlığı Aston Villa maçı öncesi gündeme geldi. Haberde teknik direktör İsmail Kartal’ın Lukaku konusundaki kararı ele alınıyor.",
+      "cat": "Kulüp",
+      "source": "Fanatik",
+      "date": "13.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Bright Osayi-Samuel Aston Villa maçına gelecek",
+      "desc": "Fenerbahçe’nin konuğu, maça gideceğini açıkladı.",
+      "body": "Bright Osayi-Samuel, Fenerbahçe’nin Aston Villa ile oynayacağı maça geleceğini açıkladı.",
+      "cat": "Kulüp",
+      "source": "Sporx",
+      "date": "14.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Aston Villa’da Fenerbahçe öncesi sakatlık krizi",
+      "desc": "Rakip kulüpte maç öncesi sakatlık sorunları basına yansıdı.",
+      "body": "Basına yansıyan haberlere göre Aston Villa’da Fenerbahçe maçı öncesi sakatlık krizi yaşandı ve kulüp basına açıklama yaptı.",
+      "cat": "Rakip",
+      "source": "NTV Spor",
+      "date": "14.10.2026",
+      "link": "https://www.ntvspor.net/futbol/takim/fenerbahce",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Unai Emery’den Fenerbahçe’ye övgü",
+      "desc": "Aston Villa teknik direktörü Fenerbahçe’yi iyi bir takım olarak tanımladı.",
+      "body": "Aston Villa teknik direktörü Unai Emery, Fenerbahçe’yi iyi bir takım ve iyi bir teknik direktörü olan rakip olarak değerlendirdi.",
+      "cat": "Rakip",
+      "source": "Fanatik",
+      "date": "13.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Aston Villa maçının muhtemel 11’i belli oldu",
+      "desc": "Muhtemel ilk 11’de Greenwood, Asensio ve Kerem Aktürkoğlu öne çıkıyor.",
+      "body": "Haberlere göre Fenerbahçe’nin Aston Villa karşısındaki muhtemel ilk 11’i: Ederson, Semedo, Skriniar, Aké, Brown, Kanté, Guendouzi, Greenwood, Asensio, Kerem Aktürkoğlu ve Muriqi.",
+      "cat": "Maç",
+      "source": "TRT Haber",
+      "date": "14.10.2026",
+      "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-aston-villa-ile-karsilasacak-960056.html",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe Aston Villa maçı için hazırlıklarını tamamladı",
+      "desc": "Takım, maç öncesi son hazırlıkları tamamladı.",
+      "body": "Fenerbahçe, Aston Villa maçı için hazırlıklarını tamamladı. Takım, maç öncesi son çalışmalarını yaptı.",
+      "cat": "Maç",
+      "source": "Fanatik",
+      "date": "14.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "UEFA analizinde Fenerbahçe’nin hücumu öne çıktı",
+      "desc": "Roma karşısındaki hücum organizasyonu UEFA’nın analizinde övgü aldı.",
+      "body": "UEFA’nın Şampiyonlar Ligi analizinde Fenerbahçe’nin Roma karşısındaki hücum organizasyonu olumlu değerlendirildi.",
+      "cat": "Analiz",
+      "source": "beIN SPORTS",
+      "date": "Güncel",
+      "link": "https://beinsports.com.tr/takim/fenerbahce",
+      "sport": "Futbol"
+    },
+    {
       "title": "Fenerbahçe'den Brahim Diaz'a teklif",
       "desc": "Haberde, Fenerbahçe'nin Real Madrid'deki Brahim Diaz için mali şartlarla öne çıkan bir teklif hazırladığı yazıyor. Oyuncunun İspanyol kulübüyle sözleşmesi sezon sonunda bitiyor.",
       "cat": "Transfer",
@@ -1989,6 +2089,54 @@
   "uclStandings": [
     {
       "rank": 1,
+      "team": "Barcelona",
+      "o": 2,
+      "g": 2,
+      "b": 0,
+      "m": 0,
+      "a": 9,
+      "y": 2,
+      "av": 7,
+      "p": 6
+    },
+    {
+      "rank": 2,
+      "team": "Sporting CP",
+      "o": 2,
+      "g": 2,
+      "b": 0,
+      "m": 0,
+      "a": 5,
+      "y": 1,
+      "av": 4,
+      "p": 6
+    },
+    {
+      "rank": 3,
+      "team": "Arsenal",
+      "o": 2,
+      "g": 2,
+      "b": 0,
+      "m": 0,
+      "a": 4,
+      "y": 0,
+      "av": 4,
+      "p": 6
+    },
+    {
+      "rank": 4,
+      "team": "Bayern Münih",
+      "o": 2,
+      "g": 1,
+      "b": 1,
+      "m": 0,
+      "a": 8,
+      "y": 3,
+      "av": 5,
+      "p": 4
+    },
+    {
+      "rank": 5,
       "team": "Paris Saint-Germain",
       "o": 1,
       "g": 1,
@@ -2000,43 +2148,7 @@
       "p": 3
     },
     {
-      "rank": 2,
-      "team": "Bayern Münih",
-      "o": 1,
-      "g": 1,
-      "b": 0,
-      "m": 0,
-      "a": 5,
-      "y": 0,
-      "av": 5,
-      "p": 3
-    },
-    {
-      "rank": 3,
-      "team": "Barcelona",
-      "o": 1,
-      "g": 1,
-      "b": 0,
-      "m": 0,
-      "a": 5,
-      "y": 1,
-      "av": 4,
-      "p": 3
-    },
-    {
-      "rank": 4,
-      "team": "Manchester United",
-      "o": 1,
-      "g": 1,
-      "b": 0,
-      "m": 0,
-      "a": 4,
-      "y": 0,
-      "av": 4,
-      "p": 3
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "team": "Como",
       "o": 1,
       "g": 1,
@@ -2048,19 +2160,19 @@
       "p": 3
     },
     {
-      "rank": 6,
-      "team": "Sporting CP",
-      "o": 1,
+      "rank": 7,
+      "team": "Manchester United",
+      "o": 2,
       "g": 1,
       "b": 0,
-      "m": 0,
-      "a": 3,
-      "y": 1,
+      "m": 1,
+      "a": 4,
+      "y": 2,
       "av": 2,
       "p": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": "Stuttgart",
       "o": 1,
       "g": 1,
@@ -2072,7 +2184,7 @@
       "p": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "team": "Manchester City",
       "o": 1,
       "g": 1,
@@ -2084,7 +2196,19 @@
       "p": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "team": "Villarreal",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 5,
+      "y": 4,
+      "av": 1,
+      "p": 3
+    },
+    {
+      "rank": 11,
       "team": "Aston Villa",
       "o": 1,
       "g": 1,
@@ -2096,19 +2220,7 @@
       "p": 3
     },
     {
-      "rank": 10,
-      "team": "Lens",
-      "o": 1,
-      "g": 1,
-      "b": 0,
-      "m": 0,
-      "a": 3,
-      "y": 2,
-      "av": 1,
-      "p": 3
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "team": "Real Betis",
       "o": 1,
       "g": 1,
@@ -2120,7 +2232,19 @@
       "p": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "team": "Atletico Madrid",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 3,
+      "y": 2,
+      "av": 1,
+      "p": 3
+    },
+    {
+      "rank": 14,
       "team": "Borussia Dortmund",
       "o": 1,
       "g": 1,
@@ -2132,7 +2256,7 @@
       "p": 3
     },
     {
-      "rank": 13,
+      "rank": 15,
       "team": "Liverpool",
       "o": 1,
       "g": 1,
@@ -2144,7 +2268,7 @@
       "p": 3
     },
     {
-      "rank": 14,
+      "rank": 16,
       "team": "Real Madrid",
       "o": 1,
       "g": 1,
@@ -2156,19 +2280,7 @@
       "p": 3
     },
     {
-      "rank": 15,
-      "team": "Arsenal",
-      "o": 1,
-      "g": 1,
-      "b": 0,
-      "m": 0,
-      "a": 1,
-      "y": 0,
-      "av": 1,
-      "p": 3
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "team": "AEK Atina",
       "o": 1,
       "g": 1,
@@ -2180,7 +2292,55 @@
       "p": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "team": "Club Brugge",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 6,
+      "y": 6,
+      "av": 0,
+      "p": 3
+    },
+    {
+      "rank": 19,
+      "team": "Lens",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 3,
+      "y": 4,
+      "av": -1,
+      "p": 3
+    },
+    {
+      "rank": 20,
+      "team": "RB Leipzig",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 2,
+      "y": 4,
+      "av": -2,
+      "p": 3
+    },
+    {
+      "rank": 21,
+      "team": "Sabah",
+      "o": 2,
+      "g": 1,
+      "b": 0,
+      "m": 1,
+      "a": 2,
+      "y": 4,
+      "av": -2,
+      "p": 3
+    },
+    {
+      "rank": 22,
       "team": "Roma",
       "o": 1,
       "g": 0,
@@ -2192,7 +2352,7 @@
       "p": 1
     },
     {
-      "rank": 18,
+      "rank": 23,
       "team": "Shakhtar Donetsk",
       "o": 1,
       "g": 0,
@@ -2204,7 +2364,7 @@
       "p": 1
     },
     {
-      "rank": 19,
+      "rank": 24,
       "team": "Fenerbahçe",
       "o": 1,
       "g": 0,
@@ -2216,88 +2376,28 @@
       "p": 1
     },
     {
-      "rank": 20,
+      "rank": 25,
       "team": "PSV Eindhoven",
-      "o": 1,
+      "o": 2,
       "g": 0,
       "b": 1,
-      "m": 0,
+      "m": 1,
       "a": 1,
-      "y": 1,
-      "av": 0,
+      "y": 2,
+      "av": -1,
       "p": 1
     },
     {
-      "rank": 21,
-      "team": "Villarreal",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 2,
-      "y": 3,
-      "av": -1,
-      "p": 0
-    },
-    {
-      "rank": 22,
-      "team": "Club Brugge",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 2,
-      "y": 3,
-      "av": -1,
-      "p": 0
-    },
-    {
-      "rank": 23,
-      "team": "Lille",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 2,
-      "y": 3,
-      "av": -1,
-      "p": 0
-    },
-    {
-      "rank": 24,
-      "team": "Slavia Prag",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 2,
-      "y": 3,
-      "av": -1,
-      "p": 0
-    },
-    {
-      "rank": 25,
-      "team": "Atletico Madrid",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 1,
-      "y": 2,
-      "av": -1,
-      "p": 0
-    },
-    {
       "rank": 26,
-      "team": "Inter",
-      "o": 1,
+      "team": "Viking",
+      "o": 2,
       "g": 0,
-      "b": 0,
+      "b": 1,
       "m": 1,
-      "a": 1,
-      "y": 2,
-      "av": -1,
-      "p": 0
+      "a": 4,
+      "y": 6,
+      "av": -2,
+      "p": 1
     },
     {
       "rank": 27,
@@ -2313,42 +2413,18 @@
     },
     {
       "rank": 28,
-      "team": "Napoli",
-      "o": 1,
+      "team": "Inter",
+      "o": 2,
       "g": 0,
       "b": 0,
-      "m": 1,
-      "a": 0,
-      "y": 1,
-      "av": -1,
+      "m": 2,
+      "a": 4,
+      "y": 6,
+      "av": -2,
       "p": 0
     },
     {
       "rank": 29,
-      "team": "Galatasaray",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 1,
-      "y": 3,
-      "av": -2,
-      "p": 0
-    },
-    {
-      "rank": 30,
-      "team": "Viking",
-      "o": 1,
-      "g": 0,
-      "b": 0,
-      "m": 1,
-      "a": 1,
-      "y": 3,
-      "av": -2,
-      "p": 0
-    },
-    {
-      "rank": 31,
       "team": "Porto",
       "o": 1,
       "g": 0,
@@ -2360,15 +2436,39 @@
       "p": 0
     },
     {
-      "rank": 32,
-      "team": "RB Leipzig",
-      "o": 1,
+      "rank": 30,
+      "team": "Slavia Prag",
+      "o": 2,
       "g": 0,
       "b": 0,
-      "m": 1,
+      "m": 2,
+      "a": 2,
+      "y": 5,
+      "av": -3,
+      "p": 0
+    },
+    {
+      "rank": 31,
+      "team": "Napoli",
+      "o": 2,
+      "g": 0,
+      "b": 0,
+      "m": 2,
       "a": 1,
       "y": 4,
       "av": -3,
+      "p": 0
+    },
+    {
+      "rank": 32,
+      "team": "Lille",
+      "o": 2,
+      "g": 0,
+      "b": 0,
+      "m": 2,
+      "a": 2,
+      "y": 6,
+      "av": -4,
       "p": 0
     },
     {
@@ -2385,14 +2485,14 @@
     },
     {
       "rank": 34,
-      "team": "Sabah",
-      "o": 1,
+      "team": "Galatasaray",
+      "o": 2,
       "g": 0,
       "b": 0,
-      "m": 1,
-      "a": 0,
-      "y": 4,
-      "av": -4,
+      "m": 2,
+      "a": 2,
+      "y": 7,
+      "av": -5,
       "p": 0
     },
     {
@@ -2422,8 +2522,8 @@
   ],
   "uclMeta": {
     "season": "2026/27",
-    "throughMatchday": 1,
-    "source": "Mackolik · lig aşaması (1. maç günü)"
+    "throughMatchday": 2,
+    "source": "Mackolik · lig aşaması (2. maç günü sonrası)"
   },
   "lineups": {},
   "links": {
